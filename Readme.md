@@ -1,3 +1,6 @@
+1. Solution is here: https://github.com/arut-plus/qmk_firmware/blob/master/keyboards/crkbd/keymaps/default/config.h#L28
+2. Changed keymap: https://github.com/arut-plus/qmk_firmware/blob/master/keyboards/crkbd/keymaps/default/keymap.c
+
 https://reddit.com/r/ErgoMechKeyboards/s/CgL5dDF29a
 
 https://reddit.com/r/ErgoMechKeyboards/s/a8Uk4OMMeR
